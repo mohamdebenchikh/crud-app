@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/curd-app/public/
+RewriteRule ^(.*)$ /curd-app/public/$1 [L]

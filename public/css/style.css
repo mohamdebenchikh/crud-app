@@ -1,0 +1,44 @@
+.dropzone {
+  position: relative;
+}
+
+.dropzone-box {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.dropzone-box:hover,
+.dropzone input:focus+.dropzone-box {
+  background-color: #f2f2f2;
+}
+
+.dropzone-placeholder {
+  margin-top: 10px;
+}
+
+.dropzone-preview {
+  display: none;
+  margin-top: 10px;
+}
+
+.dropzone-preview #preview {
+  max-width: 100%;
+  max-height: auto;
+}
+
+.dropzone-actions {
+  margin-top: 10px;
+  text-align: center;
+}
+
+th,td{
+  text-align: center;
+  vertical-align: middle;
+}
+
+th,a{
+  text-decoration: none;
+  color: black;
+}

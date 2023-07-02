@@ -1,0 +1,1 @@
+CREATE TABLE `curd`.`products` (`id` INT(11) NOT NULL AUTO_INCREMENT , `title` VARCHAR(55) NOT NULL , `description` TEXT NOT NULL , `price` MEDIUMINT NOT NULL , `image` VARCHAR(119) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
