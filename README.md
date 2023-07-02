@@ -60,6 +60,12 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using the
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
 
+## Acknowledgments
+   This CRUD app MVC project was developed as a learning exercise and may serve as a starting point for building more complex applications.
+
+   Feel free to customize the configuration values and adapt the instructions based on your specific setup and requirements.
+
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
