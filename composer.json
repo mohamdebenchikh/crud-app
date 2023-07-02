@@ -1,5 +1,5 @@
 {
-    "name": "m/curd-app",
+    "name": "m/crud-app",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
